@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "751120731159",
+    "project_id": "gafamoney-fe20e",
+    "storage_bucket": "gafamoney-fe20e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751120731159:android:b60a315c3d6cd464b7e052",
+        "android_client_info": {
+          "package_name": "com.gafamoney.gafamoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751120731159-a1j33b95q7nvn56va7s6ehdam2a9e6q6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZlTw3eDSnBCc3rWTt80yiolYc4IEF8k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751120731159-a1j33b95q7nvn56va7s6ehdam2a9e6q6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "751120731159-noes7t58mrhdqmiotmdlprqpc6up25at.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nextbyte.gafamoney"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
